@@ -2,6 +2,7 @@ from typing import List
 from Structures.trait import Trait
 from Structures.unit import Unit
 from Processing.getTraitColourFromNumber import getTraitColourFromNumber
+from Structures.colours import Colour
 
 class Board:
     """
@@ -116,4 +117,13 @@ class Board:
         return f"Board(units={self.units})"
     
     def __str__(self):
-        return f"Board with {len(self.units)} units."
+        retVal = ""
+        for unit in self.units:
+            retVal += f"{unit} "
+        if not retVal:
+            return "No units in board."
+        retVal += "\n"
+        for trait in self.activeTraits:
+            if self.activeTraits[trait][1] != Colour.DISABLED:
+                retVal += f"{trait}: {self.activeTraits[trait][0]} {self.activeTraits[trait][1]} units\n"
+        return retVal.strip()
