@@ -11,6 +11,10 @@ from Processing.generateIndividual import generateIndividual
 from Structures.board import Board
 import config as cfg
 
+
+from Metrics.TraitTracker import evaluate
+
+
 def main(set: int, teamSize: int):
     """
     Main function to load data and initialise optimisation.
@@ -28,11 +32,11 @@ def main(set: int, teamSize: int):
         individual = generateIndividual(traits, units, teamSize)
         initial_population.append(individual)
 
-    # Print the initial population
     for i, individual in enumerate(initial_population):
-        print(f"Individual {i+1}:")
-        print(individual)
-        print()
+        # Evaluate the fitness of the individual
+        fitness = evaluate(individual, units, traits)
+        print(f"Individual {i}: Fitness = {fitness}")
+    
 
 
 if __name__ == "__main__":

@@ -69,9 +69,9 @@ class Board:
         Get the active traits of the team.
         
         Returns:
-            List of active traits.
+            Dictionary of active traits.
         """
-        return list(self.activeTraits.values())
+        return self.activeTraits
     
     
     def clear(self):
