@@ -3,7 +3,7 @@
     "cost": 4,
     "traits": [
         "Anima Squad",
-        " Marksman"
+        "Marksman"
     ],
     "frontline": false,
     "damageType": "physical"
