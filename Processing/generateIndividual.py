@@ -30,7 +30,6 @@ def generateIndividual(traits: dict, units: dict, size: int) -> Board:
 
     # Add the selected units to the board
     for unit_name in selected_units:
-        unit = units[unit_name]
-        board.addUnit(unit)
+        board.addUnit(unit_name, units, traits)
 
     return board

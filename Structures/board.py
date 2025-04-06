@@ -78,6 +78,7 @@ class Board:
         Clear the team.
         """
         self.units.clear()
+        self.activeTraits.clear()
 
     def __contains__(self, unit):
         """
