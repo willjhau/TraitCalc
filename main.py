@@ -6,9 +6,12 @@ composition for a given set of traits and units in the game TFT.
 It optimises based on a custom-designed fitness function
 """
 
-from loadData import loadData
+from Processing.loadData import loadData
+from Processing.generateIndividual import generateIndividual
+from Structures.board import Board
+import config as cfg
 
-def main(set: int):
+def main(set: int, teamSize: int):
     """
     Main function to load data and initialise optimisation.
     
@@ -18,5 +21,22 @@ def main(set: int):
     # Load data
     traits, units = loadData(set)
     
-    # Initialize the game with the loaded data
-    # (Game initialization code goes here)
+    # Generate initial population
+    initial_population = []
+    population_size = cfg.POPULATION_SIZE
+    for _ in range(population_size):
+        individual = generateIndividual(traits, units, teamSize)
+        initial_population.append(individual)
+
+    # Print the initial population
+    for i, individual in enumerate(initial_population):
+        print(f"Individual {i+1}:")
+        print(individual)
+        print()
+
+
+if __name__ == "__main__":
+    # Example usage
+    set_number = 14  # Example set number
+    team_size = 8  # Example team size
+    main(set_number, team_size)
