@@ -8,3 +8,4 @@ class Colour(enum.Enum):
     GOLD = "GOLD"
     PRISMATIC = "PRISMATIC"
     DISABLED = "DISABLED"
+    UNIQUE_ACTIVE = "UNIQUE_ACTIVE"

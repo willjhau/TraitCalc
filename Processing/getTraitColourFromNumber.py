@@ -1,5 +1,6 @@
 from Structures.trait import Trait
 from Structures.level import TraitLevel
+from Structures.colours import Colour
 
 def getTraitColourFromNumber(trait: Trait, number: int) -> str:
     """
@@ -19,4 +20,4 @@ def getTraitColourFromNumber(trait: Trait, number: int) -> str:
             return level.colour
     
     # If no matching level is found, return an empty string or a default value
-    return "DISABLED"
+    return Colour.DISABLED
