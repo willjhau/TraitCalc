@@ -1,0 +1,11 @@
+{
+    "name": "Jarvan IV",
+    "cost": 3,
+    "traits": [
+        "Golden Ox",
+        "Vanguard",
+        "Slayer"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

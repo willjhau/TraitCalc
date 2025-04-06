@@ -1,0 +1,10 @@
+{
+    "name": "Zeri",
+    "cost": 4,
+    "traits": [
+        "Exotech",
+        "Rapidfire"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Yuumi",
+    "cost": 3,
+    "traits": [
+        "Anima Squad",
+        "A.M.P.",
+        "Strategist"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

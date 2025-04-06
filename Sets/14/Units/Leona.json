@@ -1,0 +1,10 @@
+{
+    "name": "Leona",
+    "cost": 4,
+    "traits": [
+        "Anima Squad",
+        "Vanguard"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

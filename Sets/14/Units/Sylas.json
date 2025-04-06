@@ -1,0 +1,10 @@
+{
+    "name": "Sylas",
+    "cost": 1,
+    "traits": [
+        "Anima Squad",
+        "Vanguard"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

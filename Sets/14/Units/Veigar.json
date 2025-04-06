@@ -1,0 +1,10 @@
+{
+    "name": "Veigar",
+    "cost": 2,
+    "traits": [
+        "Cyberboss",
+        "Techie"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

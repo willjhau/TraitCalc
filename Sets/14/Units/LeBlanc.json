@@ -1,0 +1,10 @@
+{
+    "name": "LeBlanc",
+    "cost": 2,
+    "traits": [
+        "Cypher",
+        "Strategist"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

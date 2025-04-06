@@ -1,0 +1,10 @@
+{
+    "name": "Illaoi",
+    "cost": 2,
+    "traits": [
+        "Anima Squad",
+        "Bastion"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

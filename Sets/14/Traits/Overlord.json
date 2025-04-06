@@ -1,0 +1,13 @@
+{
+    "name": "Overlord",
+    "unique": true,
+    "emblem": false,
+    "units": ["Renekton"],
+    "levels": [
+      {
+        "minUnits": 1,
+        "maxUnits": 1,
+        "colour": "GOLD"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "name": "Urgot",
+    "cost": 5,
+    "traits": [
+        "BoomBots",
+        "Executioner"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

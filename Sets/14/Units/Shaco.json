@@ -1,0 +1,10 @@
+{
+    "name": "Shaco",
+    "cost": 1,
+    "traits": [
+        "Syndicate",
+        "Slayer"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

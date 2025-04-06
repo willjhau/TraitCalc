@@ -1,0 +1,10 @@
+{
+    "name": "Graves",
+    "cost": 2,
+    "traits": [
+        "Golden Ox",
+        "Executioner"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

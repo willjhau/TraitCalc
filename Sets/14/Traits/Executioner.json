@@ -1,0 +1,28 @@
+{
+    "name": "Executioner",
+    "unique": false,
+    "emblem": true,
+    "units": ["Graves", "Rengar", "Varus", "Vex", "Urgot"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 2,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 4,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 30,
+        "colour": "GOLD"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "name": "Darius",
+    "cost": 2,
+    "traits": [
+        "Syndicate",
+        "Bruiser"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

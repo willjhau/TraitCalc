@@ -1,0 +1,10 @@
+{
+    "name": "Vi",
+    "cost": 1,
+    "traits": [
+        "Cypher",
+        "Vanguard"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

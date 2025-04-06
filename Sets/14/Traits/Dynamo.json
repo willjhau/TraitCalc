@@ -1,0 +1,23 @@
+{
+    "name": "Dynamo",
+    "unique": false,
+    "emblem": true,
+    "units": ["Morgana", "Jhin", "Elise", "Miss Fortune", "Aurora"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 2,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 30,
+        "colour": "GOLD"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "name": "Rengar",
+    "cost": 3,
+    "traits": [
+        "Street Demon",
+        "Executioner"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Alistar",
+    "cost": 1,
+    "traits": [
+        "Golden Ox",
+        "Bruiser"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

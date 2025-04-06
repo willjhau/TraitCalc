@@ -1,0 +1,10 @@
+{
+    "name": "Neeko",
+    "cost": 4,
+    "traits": [
+        "Street Demon",
+        "Strategist"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Viego",
+    "cost": 5,
+    "traits": [
+        "Soul Killer",
+        "Golden Ox",
+        "Techie"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

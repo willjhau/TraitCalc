@@ -1,0 +1,10 @@
+{
+    "name": "Kog'Maw",
+    "cost": 1,
+    "traits": [
+        "BoomBots",
+        "Rapidfire"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

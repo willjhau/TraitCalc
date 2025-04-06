@@ -1,0 +1,11 @@
+{
+    "name": "Mordekaiser",
+    "cost": 3,
+    "traits": [
+        "Exotech",
+        "Bruiser",
+        "Techie"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

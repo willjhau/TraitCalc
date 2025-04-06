@@ -1,0 +1,28 @@
+{
+    "name": "Exotech",
+    "unique": false,
+    "emblem": true,
+    "units": ["Jax", "Jhin", "Naafiri", "Mordekaiser", "Varus", "Zeri", "Sejuani"],
+    "levels": [
+      {
+        "minUnits": 3,
+        "maxUnits": 4,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 6,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 7,
+        "maxUnits": 9,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 10,
+        "maxUnits": 30,
+        "colour": "PRISMATIC"
+      }
+    ]
+  }

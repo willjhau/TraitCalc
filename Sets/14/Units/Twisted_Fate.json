@@ -1,0 +1,10 @@
+{
+    "name": "Twisted Fate",
+    "cost": 2,
+    "traits": [
+        "Syndicate",
+        "Rapidfire"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

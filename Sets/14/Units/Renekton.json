@@ -1,0 +1,11 @@
+{
+    "name": "Renekton",
+    "cost": 1,
+    "traits": [
+        "God of the Net",
+        "Divinicorp",
+        "Bastion"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Ziggs",
+    "cost": 4,
+    "traits": [
+        "Cyberboss",
+        "Strategist"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Seraphine",
+    "cost": 1,
+    "traits": [
+        "Anima Squad",
+        "Techie"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

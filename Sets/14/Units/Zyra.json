@@ -1,0 +1,10 @@
+{
+    "name": "Zyra",
+    "cost": 1,
+    "traits": [
+        "Street Demon",
+        "Techie"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

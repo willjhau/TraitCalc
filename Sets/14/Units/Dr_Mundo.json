@@ -1,0 +1,11 @@
+{
+    "name": "Dr. Mundo",
+    "cost": 1,
+    "traits": [
+        "Street Demon",
+        "Bruiser",
+        "Slayer"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

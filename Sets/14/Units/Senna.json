@@ -1,0 +1,10 @@
+{
+    "name": "Senna",
+    "cost": 3,
+    "traits": [
+        "Divinicorp",
+        "Slayer"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

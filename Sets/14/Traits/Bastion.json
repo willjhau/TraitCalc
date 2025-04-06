@@ -1,0 +1,23 @@
+{
+    "name": "Bastion",
+    "unique": false,
+    "emblem": true,
+    "units": ["Jax", "Poppy", "Illaoi", "Shyvana", "Galio", "Sejuani", "Renekton"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 3,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 5,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 6,
+        "maxUnits": 30,
+        "colour": "GOLD"
+      }
+    ]
+  }

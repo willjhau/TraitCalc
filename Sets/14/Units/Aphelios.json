@@ -1,0 +1,10 @@
+{
+    "name": "Aphelios",
+    "cost": 4,
+    "traits": [
+        "Golden Ox",
+        "Marksman"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

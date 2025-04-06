@@ -1,0 +1,23 @@
+{
+    "name": "Vanguard",
+    "unique": false,
+    "emblem": true,
+    "units": ["Sylas", "Vi", "Skarner", "Rhaast", "Braum", "Jarvan IV", "Leona"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 3,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 5,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 6,
+        "maxUnits": 30,
+        "colour": "GOLD"
+      }
+    ]
+  }

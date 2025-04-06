@@ -1,0 +1,28 @@
+{
+    "name": "A.M.P.",
+    "unique": false,
+    "emblem": false,
+    "units": ["Nidalee", "Naafiri", "Yuumi", "Annie", "Samira"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 2,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 4,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 5,
+        "colour": "GOLD"
+      }
+    ]
+  }

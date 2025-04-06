@@ -1,0 +1,10 @@
+{
+    "name": "Aurora",
+    "cost": 5,
+    "traits": [
+        "Anima Squad",
+        "Dynamo"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

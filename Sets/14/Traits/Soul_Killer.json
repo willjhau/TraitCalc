@@ -1,0 +1,13 @@
+{
+    "name": "Soul Killer",
+    "unique": true,
+    "emblem": false,
+    "units": ["Viego"],
+    "levels": [
+      {
+        "minUnits": 1,
+        "maxUnits": 1,
+        "colour": "GOLD"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "name": "Rhaast",
+    "cost": 2,
+    "traits": [
+        "Divinicorp",
+        "Vanguard"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

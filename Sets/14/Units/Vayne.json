@@ -1,0 +1,10 @@
+{
+    "name": "Vayne",
+    "cost": 2,
+    "traits": [
+        "Anima Squad",
+        "Slayer"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

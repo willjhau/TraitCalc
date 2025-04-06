@@ -1,0 +1,10 @@
+{
+    "name": "Ekko",
+    "cost": 2,
+    "traits": [
+        "Street Demon",
+        "Strategist"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Kobuko",
+    "cost": 5,
+    "traits": [
+        "Cyberboss",
+        "Bruiser"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

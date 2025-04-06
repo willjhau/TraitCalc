@@ -1,0 +1,18 @@
+{
+    "name": "Nitro",
+    "unique": false,
+    "emblem": false,
+    "units": ["Nidalee", "Kindred", "Shyvana", "Elise"],
+    "levels": [
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 4,
+        "colour": "GOLD"
+      }
+    ]
+  }

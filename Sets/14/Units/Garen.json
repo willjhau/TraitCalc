@@ -1,0 +1,9 @@
+{
+    "name": "Garen",
+    "cost": 2,
+    "traits": [
+        "God of the Net"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

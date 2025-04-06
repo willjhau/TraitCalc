@@ -1,0 +1,9 @@
+{
+    "name": "Zac",
+    "cost": 5,
+    "traits": [
+        "Virus"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sejuani",
+    "cost": 4,
+    "traits": [
+        "Exotech",
+        "Bastion"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

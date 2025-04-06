@@ -1,0 +1,10 @@
+{
+    "name": "Galio",
+    "cost": 3,
+    "traits": [
+        "Cypher",
+        "Bastion"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

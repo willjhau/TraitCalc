@@ -1,0 +1,10 @@
+{
+    "name": "Fiddlesticks",
+    "cost": 3,
+    "traits": [
+        "BoomBots",
+        "Techie"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

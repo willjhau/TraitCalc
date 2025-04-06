@@ -1,0 +1,10 @@
+{
+    "name": "Braum",
+    "cost": 3,
+    "traits": [
+        "Syndicate",
+        "Vanguard"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

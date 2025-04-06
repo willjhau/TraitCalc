@@ -1,0 +1,23 @@
+{
+    "name": "Bruiser",
+    "unique": false,
+    "emblem": true,
+    "units": ["Alistar", "Dr. Mundo", "Darius", "Gragas", "Mordekaiser", "Cho'Gath", "Kobuko"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 3,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 5,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 6,
+        "maxUnits": 30,
+        "colour": "GOLD"
+      }
+    ]
+  }

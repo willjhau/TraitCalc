@@ -1,0 +1,10 @@
+{
+    "name": "Draven",
+    "cost": 3,
+    "traits": [
+        "Cypher",
+        "Rapidfire"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

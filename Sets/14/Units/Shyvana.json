@@ -1,0 +1,11 @@
+{
+    "name": "Shyvana",
+    "cost": 2,
+    "traits": [
+        "Nitro",
+        "Bastion",
+        "Techie"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

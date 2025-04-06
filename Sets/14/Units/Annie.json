@@ -1,0 +1,10 @@
+{
+    "name": "Annie",
+    "cost": 4,
+    "traits": [
+        "Golden Ox",
+        "A.M.P."
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

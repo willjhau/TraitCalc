@@ -1,0 +1,23 @@
+{
+    "name": "Cypher",
+    "unique": false,
+    "emblem": false,
+    "units": ["Vi", "LeBlanc", "Draven", "Galio", "Zed"],
+    "levels": [
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 4,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 5,
+        "colour": "GOLD"
+      }
+    ]
+  }

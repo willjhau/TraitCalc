@@ -1,0 +1,10 @@
+{
+    "name": "Poppy",
+    "cost": 1,
+    "traits": [
+        "Cyberboss",
+        "Bastion"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

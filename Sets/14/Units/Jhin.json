@@ -1,0 +1,11 @@
+{
+    "name": "Jhin",
+    "cost": 2,
+    "traits": [
+        "Exotech",
+        "Marksman",
+        "Dynamo"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

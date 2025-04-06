@@ -1,0 +1,10 @@
+{
+    "name": "Miss Fortune",
+    "cost": 4,
+    "traits": [
+        "Syndicate",
+        "Dynamo"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

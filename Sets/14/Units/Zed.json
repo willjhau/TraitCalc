@@ -1,0 +1,10 @@
+{
+    "name": "Zed",
+    "cost": 4,
+    "traits": [
+        "Cypher",
+        "Slayer"
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

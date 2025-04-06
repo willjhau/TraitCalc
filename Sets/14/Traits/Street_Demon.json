@@ -1,0 +1,28 @@
+{
+    "name": "Street Demon",
+    "unique": false,
+    "emblem": true,
+    "units": ["Dr. Mundo", "Zyra", "Ekko", "Jinx", "Rengar", "Neeko", "Brand", "Samira"],
+    "levels": [
+      {
+        "minUnits": 3,
+        "maxUnits": 4,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 6,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 7,
+        "maxUnits": 9,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 10,
+        "maxUnits": 30,
+        "colour": "PRISMATIC"
+      }
+    ]
+  }

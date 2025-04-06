@@ -1,0 +1,11 @@
+{
+    "name": "Kindred",
+    "cost": 1,
+    "traits": [
+        "Nitro",
+        "Rapidfire",
+        "Marksman"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

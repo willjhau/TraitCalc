@@ -1,0 +1,10 @@
+{
+    "name": "Jinx",
+    "cost": 3,
+    "traits": [
+        "Street Demon",
+        "Marksman"
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}

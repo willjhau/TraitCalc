@@ -1,0 +1,10 @@
+{
+    "name": "Skarner",
+    "cost": 2,
+    "traits": [
+        "BoomBots",
+        "Vanguard"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

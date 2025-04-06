@@ -1,0 +1,10 @@
+{
+    "name": "Gragas",
+    "cost": 3,
+    "traits": [
+        "Divinicorp",
+        "Bruiser"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

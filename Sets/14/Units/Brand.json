@@ -1,0 +1,10 @@
+{
+    "name": "Brand",
+    "cost": 4,
+    "traits": [
+        "Street Demon",
+        "Techie"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

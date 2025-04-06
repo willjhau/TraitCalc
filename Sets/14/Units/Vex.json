@@ -1,0 +1,10 @@
+{
+    "name": "Vex",
+    "cost": 4,
+    "traits": [
+        "Divinicorp",
+        "Executioner"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

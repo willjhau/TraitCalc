@@ -1,0 +1,10 @@
+{
+    "name": "Jax",
+    "cost": 1,
+    "traits": [
+        "Exotech",
+        "Bastion"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

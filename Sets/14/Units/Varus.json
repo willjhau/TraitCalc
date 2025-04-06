@@ -1,0 +1,10 @@
+{
+    "name": "Varus",
+    "cost": 3,
+    "traits": [
+        "Exotech",
+        "Executioner"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

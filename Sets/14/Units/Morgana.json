@@ -1,0 +1,10 @@
+{
+    "name": "Morgana",
+    "cost": 1,
+    "traits": [
+        "Divinicorp",
+        "Dynamo"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

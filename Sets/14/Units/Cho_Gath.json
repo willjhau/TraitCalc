@@ -1,0 +1,10 @@
+{
+    "name": "Cho'Gath",
+    "cost": 4,
+    "traits": [
+        "BoomBots",
+        "Bruiser"
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

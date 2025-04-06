@@ -1,0 +1,23 @@
+{
+    "name": "Syndicate",
+    "unique": false,
+    "emblem": true,
+    "units": ["Shaco", "Darius", "Twisted Fate", "Braum", "Miss Fortune"],
+    "levels": [
+      {
+        "minUnits": 3,
+        "maxUnits": 4,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 6,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 7,
+        "maxUnits": 30,
+        "colour": "GOLD"
+      }
+    ]
+  }

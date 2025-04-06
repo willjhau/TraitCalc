@@ -1,0 +1,10 @@
+{
+    "name": "Nidalee",
+    "cost": 1,
+    "traits": [
+        "Nitro",
+        "A.M.P."
+    ],
+    "frontline": true,
+    "damageType": "magic"
+}

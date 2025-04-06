@@ -1,0 +1,23 @@
+{
+    "name": "Cyberboss",
+    "unique": false,
+    "emblem": false,
+    "units": ["Poppy", "Veigar", "Ziggs", "Kobuko"],
+    "levels": [
+      {
+        "minUnits": 2,
+        "maxUnits": 2,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 4,
+        "colour": "GOLD"
+      }
+    ]
+  }

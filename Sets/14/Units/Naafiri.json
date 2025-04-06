@@ -1,0 +1,10 @@
+{
+    "name": "Naafiri",
+    "cost": 2,
+    "traits": [
+        "Exotech",
+        "A.M.P."
+    ],
+    "frontline": true,
+    "damageType": "physical"
+}

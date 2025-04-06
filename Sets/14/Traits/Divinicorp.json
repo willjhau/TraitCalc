@@ -1,0 +1,43 @@
+{
+    "name": "Divinicorp",
+    "unique": false,
+    "emblem": true,
+    "units": ["Morgana", "Rhaast", "Senna", "Gragas", "Vex", "Renekton"],
+    "levels": [
+      {
+        "minUnits": 1,
+        "maxUnits": 1,
+        "colour": "BRONZE"
+      },
+      {
+        "minUnits": 2,
+        "maxUnits": 2,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 3,
+        "maxUnits": 3,
+        "colour": "SILVER"
+      },
+      {
+        "minUnits": 4,
+        "maxUnits": 4,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 5,
+        "maxUnits": 5,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 6,
+        "maxUnits": 6,
+        "colour": "GOLD"
+      },
+      {
+        "minUnits": 7,
+        "maxUnits": 30,
+        "colour": "PRISMATIC"
+      }
+    ]
+  }

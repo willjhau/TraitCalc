@@ -1,0 +1,10 @@
+{
+    "name": "Elise",
+    "cost": 3,
+    "traits": [
+        "Nitro",
+        "Dynamo"
+    ],
+    "frontline": false,
+    "damageType": "magic"
+}

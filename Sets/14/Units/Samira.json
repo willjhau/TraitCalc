@@ -1,0 +1,10 @@
+{
+    "name": "Samira",
+    "cost": 5,
+    "traits": [
+        "Street Demon",
+        "A.M.P."
+    ],
+    "frontline": false,
+    "damageType": "physical"
+}
