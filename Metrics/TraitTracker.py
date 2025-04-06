@@ -30,6 +30,10 @@ def evaluate(board: Board, units: dict, traits: dict, critical = 8) -> int:
 
     for unit in board.getUnits():
         totalUnitCost += units[unit].cost
+        if units[unit].cost == 5:
+            totalUnitCost += 50
+        if units[unit].cost == 4:
+            totalUnitCost += 10
 
     # Calculate the number of units
     numberOfUnits = len(board.getUnits())

@@ -4,7 +4,7 @@ from typing import List, Dict, Tuple
 import json
 import os
 
-def loadData(setNumber: int) -> Tuple[Dict[str, Trait], Dict[str, Unit]]:
+def loadData(setNumber: int) -> Tuple[Dict[str, Unit], Dict[str, Trait]]:
     """
     Load data from JSON files and create Trait and Unit objects.
     
@@ -42,13 +42,20 @@ def loadData(setNumber: int) -> Tuple[Dict[str, Trait], Dict[str, Unit]]:
         # Add the Unit object to the dictionary
         units_dict[unit_obj.name] = unit_obj
 
+    # toRemove = []
+    # for unit in units_dict.values():
+    #     if unit.cost == 4 or unit.cost == 5:
+    #         toRemove.append(unit.name)
+    # for unit in toRemove:
+    #     del units_dict[unit]
+
     # Return the dictionaries of traits and units
-    return traits_dict, units_dict
+    return units_dict, traits_dict
     
 if __name__ == "__main__":
     # Example usage
     set_number = 14
-    traits, units = loadData(set_number)
+    units, traits = loadData(set_number)
     print("Traits:")
     for trait_name, trait in traits.items():
         print(f" - {trait_name}: {trait}")

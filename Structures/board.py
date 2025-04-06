@@ -110,6 +110,18 @@ class Board:
             Iterator over the units in the team.
         """
         return iter(self.units)
+    
+    def __eq__(self, other):
+        """
+        Check if two boards are equal.
+        
+        Args:
+            other: The other board to compare.
+        
+        Returns:
+            bool: True if the boards are equal, False otherwise.
+        """
+        return self.units == other.units
 
 
 

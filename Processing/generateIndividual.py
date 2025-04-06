@@ -4,7 +4,7 @@ from Structures.trait import Trait
 from Structures.level import TraitLevel
 import random
 
-def generateIndividual(traits: dict, units: dict, size: int) -> Board:
+def generateIndividual(units: dict, traits: dict, size: int) -> Board:
     """
     Generate a random individual for the team composition.
     
