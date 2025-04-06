@@ -33,5 +33,4 @@ def generateIndividual(traits: dict, units: dict, size: int) -> Board:
         unit = units[unit_name]
         board.addUnit(unit)
 
-    
     return board
